@@ -1,5 +1,9 @@
 daemon off;
 
+events {
+  worker_connections 1024;
+}
+
 http {
 
   server {
