@@ -223,18 +223,3 @@ form label {
   #contact-us {
     width: 600px;
   }
-
-  #tshirt-viewer .left, #tshirt-viewer .right {
-    width: 483px;
-    float: left;
-  }
-
-    #tshirt-viewer .left .team-selector {
-      margin-top: 25px;
-      text-align: center;
-      line-height: 40px;
-    }
-
-    #tshirt-viewer .right .button-container {
-      text-align: center;
-    }
