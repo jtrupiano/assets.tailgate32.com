@@ -159,11 +159,11 @@ form label {
 #navigation {
   width: 1000px;
   margin: 8px auto 0px auto;
-  height: 43px;
+  height: 35px;
 }
 
   #social-media-header {
-    width: 200px;
+    width: 160px;
     float: left;
     margin-top: 6px;
   }
@@ -178,7 +178,7 @@ form label {
     }
 
   #menu {
-    width: 800px;
+    width: 840px;
     float: left;
     text-align: right;
   }
